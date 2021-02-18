@@ -1,0 +1,93 @@
+h1{
+
+	color: blue;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+
+
+.c6{
+
+	font-family: sans-serif;
+	padding: 40px;
+	text-align: center;
+	color: green;
+}
+
+.c7 img{
+
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+
+
+.c4{
+
+	font-family: tahoma;
+	line-height: 1.6;
+	border: red 5px solid;
+	padding: 4em;
+
+
+
+}
+
+
+.c5{
+	
+	font-family: tahoma;
+	line-height: 1.6;
+	border: red 5px solid;
+	padding: 4em;
+	
+
+}
+
+
+
+
+.container{
+
+	width: 80%;
+	margin:auto;
+	word-spacing: 0.3em;
+}
+
+
+a{
+
+	text-decoration:none;
+}
+
+a:hover{
+
+	color:red;
+}
+
+a:visited{
+	color:red;
+}
+
+
+.c5 li{
+
+	padding-bottom: 5px;
+}
+
+.c5 ul{
+
+	list-style:square;
+}
+
+.cb{
+
+	padding-bottom: 10em;
+
+}
+
+
+
+
+
